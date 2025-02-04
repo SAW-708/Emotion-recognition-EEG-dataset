@@ -1,8 +1,8 @@
 # Emotion-recognition-EEG-dataset
 The summary of emotion recognition EEG dataset from torcheeg
 
-## Features
-- DEAPDataset
+## List of datasets
+- DEAPDataset (2012)
 - DREAMERDataset
 - SEEDDataset
 - SEEDFeatureDataset
